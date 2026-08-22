@@ -12,7 +12,7 @@ class Agsearch < Formula
   desc "Search every Claude Code and Codex CLI session, then resume the right one"
   homepage "https://github.com/devcodes9/agsearch"
   url "https://github.com/devcodes9/agsearch/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "66b531b28e5ce0446fb38b47de5bb6486b55f968a9f2d86261bd0dfa5e42e660"
   license "MIT"
   head "https://github.com/devcodes9/agsearch.git", branch: "main"
 

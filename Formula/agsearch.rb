@@ -11,8 +11,8 @@ class Agsearch < Formula
 
   desc "Search every Claude Code, Codex, Cursor CLI, opencode and Gemini CLI session, then resume the right one"
   homepage "https://github.com/devcodes9/agsearch"
-  url "https://github.com/devcodes9/agsearch/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "4326be7c01defbea9c629742f0fd64c03f2f070f7d4fc78ecd6ae41fd2b86246"
+  url "https://github.com/devcodes9/agsearch/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "e822b10008bfe15a8010c884b0fd6024231574a39e208bd4210d4b3c274225f2"
   license "MIT"
   head "https://github.com/devcodes9/agsearch.git", branch: "main"
 
